@@ -3,7 +3,7 @@ clear;
 clc;
 
 %%%%%%%%%%%%%% Control System %%%%%%%%%%%%%%%%%%
-tCycle = 0.001; % [s]
+tCycle = 0.01; % [s]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Constant Supply Pessure Settings
 p_S=180;                    % [bar]     Supply pressure
